@@ -12,7 +12,8 @@ Create a pull request with the following:
   * Do you use protobufs, Cap'n Proto, Flat Buffers or some other serialization library?
   * Is the application a research prototype, production system, or other?
   * Is your protobuf for network or storage serialization?
-  * If possible, add a link to your code that uses the protobuf file
+  * If possible, add a link to your code that uses the protobuf file.
+  * Trademark and licensing for your protobuf code.
 
 ### Disclaimer
-This is a public github repo that we will leave available to other researchers working on protobufs. PLEASE DO NOT upload non-open-source code here!!
+This is a public github repo that we will leave available to other researchers working on protobufs. We will not use the code for any purpose other than data collection. PLEASE DO NOT upload non-open-source code here!!
