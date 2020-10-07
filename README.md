@@ -16,4 +16,4 @@ Create a pull request with the following:
   * Trademark and licensing for your protobuf code.
 
 ### Disclaimer
-This is a public github repo that we will leave available to other researchers working on protobufs. We will not use the code for any purpose other than data collection. PLEASE DO NOT upload non-open-source code here!!
+This is a public github repo that we will leave available to other researchers working on protobufs. By uploading your protobuf, you agree for it to be used in a research study. We will not use the code for any purpose other than data collection. PLEASE DO NOT upload non-open-source code here!!
